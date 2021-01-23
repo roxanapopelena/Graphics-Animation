@@ -18,6 +18,6 @@ Main features:<br/>
 -	Use of scene graph and grouping to make working with multiple elements syntactically clearer<br/>
 -	Optional helper functions that are commented out to help visualize the positioning of the street light’s spotlight and to visualize the main spotlight that casts shadows<br/>
 <br/>
-![](Screenshots/Untitled.png)
+![ ](Screenshots/Untitled.png)
 
 
