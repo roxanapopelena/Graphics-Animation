@@ -1,6 +1,6 @@
 # Graphics-Animation Project
 
-Project developed using Three.js and WebGL to create a graphic implementations of a town's section.<br/>
+Project developed using Three.js and WebGL to create a graphic implementations of a town's section in the browser.<br/>
 Main features:<br/>
 - A setup for the environment of the app: a renderer, camera, camera controls & restrictions<br/>
 - A spotlight to mimic the sun (placed far away in the scene) and ambient light<br/>
